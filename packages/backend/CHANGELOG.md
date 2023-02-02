@@ -1,5 +1,15 @@
 # example-backend
 
+## 0.2.80-next.2
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-lighthouse-backend@0.1.0-next.0
+  - @backstage/plugin-kafka-backend@0.2.35-next.2
+  - @backstage/plugin-proxy-backend@0.2.36-next.2
+  - example-app@0.2.80-next.2
+
 ## 0.2.80-next.1
 
 ### Patch Changes

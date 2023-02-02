@@ -1,5 +1,11 @@
 # @backstage/plugin-user-settings-backend
 
+## 0.1.6-next.2
+
+### Patch Changes
+
+- 4a6f38a535: Added a Backend System plugin feature
+
 ## 0.1.6-next.1
 
 ### Patch Changes

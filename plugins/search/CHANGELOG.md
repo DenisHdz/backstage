@@ -1,5 +1,15 @@
 # @backstage/plugin-search
 
+## 1.1.0-next.2
+
+### Patch Changes
+
+- 66e2aab4c4: Updated colors for each tab used on search modal, to improve color contrast. Aria label added to tabs wrapper component. `disableRipple` property on the `Tab` component removed to improve keyboard navigation indicator.
+- Updated dependencies
+  - @backstage/plugin-search-react@1.5.0-next.1
+  - @backstage/core-components@0.12.4-next.1
+  - @backstage/plugin-catalog-react@1.3.0-next.2
+
 ## 1.1.0-next.1
 
 ### Minor Changes

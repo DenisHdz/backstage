@@ -1,5 +1,11 @@
 # @backstage/core-components
 
+## 0.12.4-next.1
+
+### Patch Changes
+
+- 66e2aab4c4: Navigation items in mobile sidebar now have aria label.
+
 ## 0.12.4-next.0
 
 ### Patch Changes

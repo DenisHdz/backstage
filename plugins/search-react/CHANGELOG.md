@@ -1,5 +1,16 @@
 # @backstage/plugin-search-react
 
+## 1.5.0-next.1
+
+### Patch Changes
+
+- 66e2aab4c4: `ListItem` wrapper component moved to `SearchResultListItemExtension` for all `*SearchResultListItems` that are exported as extensions. This is to make sure the list only contains list elements.
+
+  Note: If you have implemented a custom result list item, we recommend you to remove the list item wrapper to avoid nested `<li>` elements.
+
+- Updated dependencies
+  - @backstage/core-components@0.12.4-next.1
+
 ## 1.5.0-next.0
 
 ### Minor Changes

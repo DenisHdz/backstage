@@ -1,5 +1,17 @@
 # @backstage/plugin-sentry
 
+## 0.5.0-next.2
+
+### Minor Changes
+
+- 6a8d6b9a0c: Add option to filter issues based on the time it was triggered
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/core-components@0.12.4-next.1
+  - @backstage/plugin-catalog-react@1.3.0-next.2
+
 ## 0.4.8-next.1
 
 ### Patch Changes
